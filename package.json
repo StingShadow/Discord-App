@@ -1,0 +1,16 @@
+{
+  "name": "discord-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "args": "^5.0.1",
+    "canvas": "^2.9.1",
+    "discord.js": "^13.6.0"
+  }
+}
